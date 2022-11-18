@@ -1,11 +1,165 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
-one:
-  symbol: MyString
+a:
+  symbol: VALE3.SA
+  date: 2022-10-17
+  price: 70.20999908447266
+b:
+  symbol: VALE3.SA
+  date: 2022-10-18
+  price: 72.30000305175781
+c:
+  symbol: VALE3.SA
+  date: 2022-10-19
+  price: 71.62999725341797
+d:
+  symbol: VALE3.SA
+  date: 2022-10-20
+  price: 70.9800033569336 
+e:
+  symbol: VALE3.SA
+  date: 2022-10-21
+  price: 71.80000305175781
+f:
+  symbol: VALE3.SA
+  date: 2022-10-24
+  price: 73.2699966430664 
+g:
+  symbol: VALE3.SA
+  date: 2022-10-25
+  price: 71.61000061035156
+h:
+  symbol: VALE3.SA
+  date: 2022-10-26
+  price: 71.27999877929688
+i:
+  symbol: VALE3.SA
+  date: 2022-10-27
+  price: 72
+j:
+  symbol: VALE3.SA
+  date: 2022-10-28
+  price: 68.58999633789062
+k:
+  symbol: VALE3.SA
+  date: 2022-10-31
+  price: 66
+l:
+  symbol: VALE3.SA
+  date: 2022-11-01
+  price: 69.44999694824219
+m:
+  symbol: VALE3.SA
+  date: 2022-11-03
+  price: 67.63999938964844
+n:
+  symbol: VALE3.SA
+  date: 2022-11-04
+  price: 71.1500015258789
+o:
+  symbol: VALE3.SA
+  date: 2022-11-07
+  price: 72
+p:
+  symbol: VALE3.SA
+  date: 2022-11-08
+  price: 71.6500015258789
+q:
+  symbol: VALE3.SA
+  date: 2022-11-09
+  price: 74.0999984741211
+r:
+  symbol: VALE3.SA
+  date: 2022-11-10
+  price: 71.5
+s:
+  symbol: VALE3.SA
+  date: 2022-11-11
+  price: 77.98999786376953
+t:
+  symbol: VALE3.SA
+  date: 2022-11-14
+  price: 82.38999938964844
+u:
+  symbol: VALE3.SA
   date: 2022-11-16
-  price: 9.99
-
-two:
-  symbol: MyString
-  date: 2022-11-16
-  price: 9.99
+  price: 83.31999969482422
+v:
+  symbol: VALE3.SA
+  date: 2022-09-16
+  price: 67.27999877929688
+w:
+  symbol: VALE3.SA
+  date: 2022-09-19
+  price: 67.43000030517578
+x:
+  symbol: VALE3.SA
+  date: 2022-09-20
+  price: 69.80000305175781
+y:
+  symbol: VALE3.SA
+  date: 2022-09-21
+  price: 69.44999694824219
+z:
+  symbol: VALE3.SA
+  date: 2022-09-22
+  price: 70.16999816894531
+aa:
+  symbol: VALE3.SA
+  date: 2022-09-23
+  price: 68.70999908447266
+ab:
+  symbol: VALE3.SA
+  date: 2022-09-26
+  price: 67.69999694824219
+ac:
+  symbol: VALE3.SA
+  date: 2022-09-27
+  price: 67.63999938964844
+ad:
+  symbol: VALE3.SA
+  date: 2022-09-28
+  price: 67.70999908447266
+ae:
+  symbol: VALE3.SA
+  date: 2022-09-29
+  price: 67.93000030517578
+af:
+  symbol: VALE3.SA
+  date: 2022-09-30
+  price: 68.48999786376953
+ag:
+  symbol: VALE3.SA
+  date: 2022-10-03
+  price: 73.23999786376953
+ah:
+  symbol: VALE3.SA
+  date: 2022-10-04
+  price: 74.19999694824219
+ai:
+  symbol: VALE3.SA
+  date: 2022-10-05
+  price: 76.29000091552734
+aj:
+  symbol: VALE3.SA
+  date: 2022-10-06
+  price: 77.19999694824219
+ak:
+  symbol: VALE3.SA
+  date: 2022-10-07
+  price: 75.36000061035156
+al:
+  symbol: VALE3.SA
+  date: 2022-10-10
+  price: 76.41000366210938
+am:
+  symbol: VALE3.SA
+  date: 2022-10-11
+  price: 73.19999694824219
+an:
+  symbol: VALE3.SA
+  date: 2022-10-13
+  price: 72.25
+ao:
+  symbol: VALE3.SA
+  date: 2022-10-14
+  price: 72.61000061035156
